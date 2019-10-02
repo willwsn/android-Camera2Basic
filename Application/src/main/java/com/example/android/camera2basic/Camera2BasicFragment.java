@@ -402,6 +402,7 @@ public class Camera2BasicFragment extends Fragment
             }
         }
 
+	//Test2
         // Pick the smallest of those big enough. If there is no one big enough, pick the
         // largest of those not big enough.
         if (bigEnough.size() > 0) {
